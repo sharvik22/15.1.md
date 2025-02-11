@@ -69,4 +69,35 @@ Resource Terraform:
 
 ### Решение 1
 
+![image](https://github.com/user-attachments/assets/f9706b35-f598-4e6c-9f27-339f06471898)
+
+![image](https://github.com/user-attachments/assets/a3306329-59eb-4eec-8eee-f732467b3d3e)
+
+
+![image](https://github.com/user-attachments/assets/573a0e2e-c202-49d6-801e-0f5b5b1ed9f4)
+
+![image](https://github.com/user-attachments/assets/968e101f-ac52-41bf-8b1a-edaa8042719c)
+
+![image](https://github.com/user-attachments/assets/e240485e-5519-4fe9-9748-962084c75df2)
+
+![image](https://github.com/user-attachments/assets/3f17f480-ab9e-4d76-956e-f3da5f983369)
+
+![image](https://github.com/user-attachments/assets/460c0561-a38b-41c3-bdbd-167005910d3a)
+
+
+![image](https://github.com/user-attachments/assets/b728eb0f-8681-4868-a41a-a4c7b248fa27)
+
+![image](https://github.com/user-attachments/assets/14abc337-1b5e-460a-bbb2-a8269d1ab060)
+
+![image](https://github.com/user-attachments/assets/49e7710d-ecdd-41dd-80f4-03f16805c37e)
+
+удалил всё 
+terraform destroy
+
+
+
+
+---
+
+
 
