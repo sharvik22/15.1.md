@@ -105,7 +105,7 @@ Resource Terraform:
 
 ![image](https://github.com/user-attachments/assets/14abc337-1b5e-460a-bbb2-a8269d1ab060)
 
-10) подключился к приватоной машине, проверил доступ к интернеру и пинг публичной. 
+10) подключился к приватной машине, проверил доступ к интернеру и пинг публичной. 
 
 ![image](https://github.com/user-attachments/assets/49e7710d-ecdd-41dd-80f4-03f16805c37e)
 
